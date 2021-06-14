@@ -16,9 +16,9 @@ class PybaDatabase:
         # Heroku
         self.host = "us-cdbr-east-04.cleardb.com"
         self.port = 3306
-        self.user = "b7880256c85fc7"
-        self.password = "dfdbe64a"
-        self.database = "heroku_de080cfa793afc7"
+        self.user = "bcd1acdf89dcc7"
+        self.password = "b9327e44"
+        self.database = "heroku_747a020140ee6b5"
         self.connection = self.createConnection()
         self.cursor = self.createCursor()
 

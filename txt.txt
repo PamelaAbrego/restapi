@@ -1,0 +1,11 @@
+usuario:
+bcd1acdf89dcc7
+
+password
+b9327e44
+
+host
+us-cdbr-east-04.cleardb.com
+
+database:
+heroku_747a020140ee6b5
